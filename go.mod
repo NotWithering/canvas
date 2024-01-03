@@ -1,3 +1,3 @@
-module github.com/NotWithering/sublay
+module github.com/NotWithering/canvas
 
 go 1.21
