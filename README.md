@@ -1,6 +1,6 @@
-# Canvas [![MIT License](https://img.shields.io/badge/License-MIT-a10b31)](https://github.com/NotWithering/canvas/blob/master/LICENSE)
+# Sublay [![MIT License](https://img.shields.io/badge/License-MIT-a10b31)](https://github.com/NotWithering/sublay/blob/master/LICENSE)
 
-**Canvas** is a simple go package that provides functions to help you create and display canvases in the terminal.
+**Sublay** is a simple go package that provides functions to help you create and display canvases in the terminal.
 
 ### Contents
 -  [Example](#example)
@@ -15,12 +15,12 @@ import (
 	"fmt"
 	"image/color"
 
-	"github.com/NotWithering/canvas"
+	"github.com/NotWithering/sublay"
 )
 
 func main() {
-	myCanvas := canvas.New(7, 3)
-	myCanvas = canvas.Fill(myCanvas, color.Transparent)
+	myCanvas := sublay.New(7, 3)
+	myCanvas = sublay.Fill(myCanvas, color.Transparent)
 
 	myCanvas[0][0] = color.RGBA{255, 85, 85, 255}
 	myCanvas[0][1] = color.RGBA{255, 85, 85, 255}
@@ -38,7 +38,7 @@ func main() {
 	myCanvas[5][2] = color.RGBA{255, 85, 85, 255}
 	myCanvas[6][2] = color.RGBA{255, 85, 85, 255}
 
-	me := canvas.Text(myCanvas)
+	me := sublay.Text(myCanvas)
 	fmt.Println(me)
 }
 
