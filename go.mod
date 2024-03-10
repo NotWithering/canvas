@@ -1,3 +1,3 @@
-module github.com/NotWithering/canvas
+module github.com/notwithering/canvas
 
 go 1.21

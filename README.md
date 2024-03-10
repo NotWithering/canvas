@@ -1,4 +1,4 @@
-# Canvas [![MIT License](https://img.shields.io/badge/License-MIT-a10b31)](https://github.com/NotWithering/canvas/blob/master/LICENSE)
+# Canvas [![MIT License](https://img.shields.io/badge/License-MIT-a10b31)](https://github.com/notwithering/canvas/blob/master/LICENSE)
 
 **Canvas** is a simple go package that provides functions to help you create and display canvases in the terminal.
 
@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"image/color"
 
-	"github.com/NotWithering/canvas"
+	"github.com/notwithering/canvas"
 )
 
 func main() {

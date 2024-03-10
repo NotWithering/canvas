@@ -5,7 +5,7 @@
 // subcharacter-layering to achieve the resolution the user desires.
 
 // Copyright (c) 2016-2020: Jim Philip and licensed under the MIT license.
-// For more information see https://github.com/NotWithering/canvas/blob/master/LICENSE
+// For more information see https://github.com/notwithering/canvas/blob/master/LICENSE
 
 package canvas
 
