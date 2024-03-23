@@ -1,11 +1,19 @@
+# ⚠️ DEPRECATED ⚠️
+
+This package is severely broken and horribly slow. I will probably design a new package differently named that is not completely down syndromed.
+
+---
+
 # Canvas [![MIT License](https://img.shields.io/badge/License-MIT-a10b31)](https://github.com/notwithering/canvas/blob/master/LICENSE)
 
 **Canvas** is a simple go package that provides functions to help you create and display canvases in the terminal.
 
 ### Contents
--  [Example](#example)
+
+- [Example](#example)
 
 ## Example
+
 <img src="screenshot.png"/>
 
 ```go

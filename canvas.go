@@ -1,3 +1,4 @@
+// DEPRECATED:
 // Canvas is a simple go package that provides functions to help you create and display canvases in the terminal.
 
 // This is an implementation of functions and types that help you convert
