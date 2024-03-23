@@ -71,7 +71,7 @@ func TextHalfBlock(canvas Canvas) string {
 	return final
 }
 
-// ImageCanvas takes an image and converst it to a canvas
+// ImageCanvas takes an image and converts it to a canvas
 func ImageCanvas(img image.Image) Canvas {
 	var canv = New(img.Bounds().Max.X, img.Bounds().Max.Y)
 
