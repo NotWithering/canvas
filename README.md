@@ -1,6 +1,6 @@
 # ⚠️ DEPRECATED ⚠️
 
-This package is severely broken and horribly slow. I will probably design a new package differently named that is not completely down syndromed.
+This package is severely broken and horribly slow. Here's a less horrible and much faster package I recently made: https://github.com/notwithering/blocky
 
 ---
 
